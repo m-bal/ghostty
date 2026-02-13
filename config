@@ -1,0 +1,5 @@
+# Global keybind to open quick terminal
+keybind = global:alt+q=toggle_quick_terminal
+quick-terminal-position = top
+quick-terminal-autohide = false
+macos-option-as-alt = true
