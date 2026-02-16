@@ -3,3 +3,6 @@ keybind = global:alt+q=toggle_quick_terminal
 quick-terminal-position = top
 quick-terminal-autohide = false
 macos-option-as-alt = true
+macos-titlebar-style = hidden
+theme = ENCOM
+custom-shader = ghostty-shaders/mario.glsl
